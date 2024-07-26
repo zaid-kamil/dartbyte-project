@@ -1,16 +1,5 @@
-# dartbyte_app
+# dartbyte App
 
-A Basic Flutter project.
+A Basic Flutter project, showcasing flutter capability for website ui development
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![f325](https://github.com/user-attachments/assets/7dde0c2d-7d87-47b3-b3fe-089c1729564b)
