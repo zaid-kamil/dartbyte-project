@@ -1,4 +1,4 @@
-# dartbyte App
+# News App
 
 A Basic Flutter project, showcasing flutter capability for website ui development
 
